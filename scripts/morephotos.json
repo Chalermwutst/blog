@@ -1,0 +1,24 @@
+
+[
+    {
+        "src":"../assets/slider/slide1.jpg",
+        "alt":"slide image 1",
+        "class":"w-full h-full object-cover my-slides" 
+    },
+    {
+        "src":"../assets/slider/slide2.jpg",
+        "alt":"slide image 2",
+        "class":"w-full h-full object-cover my-slides" 
+    },
+    {
+        "src":"../assets/slider/slide3.jpg",
+        "alt":"slide image 3",
+        "class":"w-full h-full object-cover my-slides" 
+    },
+    {
+        "src":"../assets/slider/slide4.jpg",
+        "alt":"slide image 4",
+        "class":"w-full h-full object-cover my-slides" 
+    }
+
+]

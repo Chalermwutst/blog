@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Forward Integration Executive",
+        "description":"Nobis quo est corporis totam dolores. Rerum quam autem debitis dolores sunt et quis occaecati. Nam dolorem dolores.",
+        "publishedDate":"4/1/2024",
+        "imageUrl":"https://fastly.picsum.photos/id/648/300/200.jpg?hmac=1CBWajz31GOLUdds_HpCDPaHDG6FF3eoY1fYcoFgEMY",
+        "url":"/src/blogs/1.html"
+    },
+    {
+        "title":"Skooldio 2",
+        "description":"Hello kx",
+        "publishedDate":"5/1/2024",
+        "imageUrl":"https://fastly.picsum.photos/id/0/300/200.jpg?hmac=qPTvURjzRq35DI4OD_cOli0W3KL2YowI7_hiVIvXulQ",
+        "url":"/src/blogs/2.html"
+    }
+]
